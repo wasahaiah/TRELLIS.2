@@ -1,4 +1,4 @@
-![](assets/teaser.webp)
+ ![](assets/teaser.webp)
 
 # Native and Compact Structured Latents for 3D Generation
 
